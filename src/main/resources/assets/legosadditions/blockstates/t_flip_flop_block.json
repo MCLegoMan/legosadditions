@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"output=false": {
+			"model": "legosadditions:block/t_flip_flop_block"
+		},
+		"output=true": {
+			"model": "legosadditions:block/t_flip_flop_block_on"
+		}
+	}
+}

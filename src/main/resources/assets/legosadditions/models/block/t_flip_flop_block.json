@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "legosadditions:block/t_flip_flop_block",
+		"down": "minecraft:block/furnace_top",
+		"up": "minecraft:block/furnace_top"
+	}
+}

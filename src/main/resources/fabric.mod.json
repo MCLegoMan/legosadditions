@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "legosadditions",
+	"version": "${version}",
+	"name": "Lego's Additions",
+	"description": "Random Thing's Lego has made.",
+	"authors": [
+		"MCLegoMan"
+	],
+	"contact": {
+		"homepage": "https://github.com/MCLegoMan"
+	},
+	"license": "LGPL-3.0-or-later",
+	"icon": "assets/legosadditions/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mclegoman.copperbulb.common.LA"
+		]
+	},
+	"depends": {
+		"fabric-api": "*"
+	}
+}
