@@ -1,7 +1,6 @@
 package com.mclegoman.legosadditions.common.block;
 
 import com.mclegoman.legosadditions.common.LA;
-import com.mojang.serialization.MapCodec;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.entity.mob.PiglinBrain;
@@ -27,11 +26,7 @@ public class LAEnderBarrel extends Block {
 	public LAEnderBarrel(Settings settings) {
 		super(settings);
 	}
-	public static final MapCodec<LAEnderBarrel> CODEC = createCodec(LAEnderBarrel::new);
 	public static final DirectionProperty FACING;
-	public MapCodec<LAEnderBarrel> getCodec() {
-		return CODEC;
-	}
 	@Override
 	public ActionResult onUse(BlockState state, World world, BlockPos pos, PlayerEntity player, Hand hand, BlockHitResult hit) {
 		if (world.isClient) {

@@ -1,0 +1,244 @@
+{
+	"variants": {
+		"facing=east,powered=false": {
+			"model": "legosadditions:block/adjuster_0",
+			"y": 270
+		},
+		"facing=north,powered=false": {
+			"model": "legosadditions:block/adjuster_0",
+			"y": 180
+		},
+		"facing=south,powered=false": {
+			"model": "legosadditions:block/adjuster_0"
+		},
+		"facing=west,powered=false": {
+			"model": "legosadditions:block/adjuster_0",
+			"y": 90
+		},
+		"facing=east,powered=true,output=1": {
+			"model": "legosadditions:block/adjuster_1",
+			"y": 270
+		},
+		"facing=north,powered=true,output=1": {
+			"model": "legosadditions:block/adjuster_1",
+			"y": 180
+		},
+		"facing=south,powered=true,output=1": {
+			"model": "legosadditions:block/adjuster_1"
+		},
+		"facing=west,powered=true,output=1": {
+			"model": "legosadditions:block/adjuster_1",
+			"y": 90
+		},
+		"facing=east,powered=true,output=2": {
+			"model": "legosadditions:block/adjuster_2",
+			"y": 270
+		},
+		"facing=north,powered=true,output=2": {
+			"model": "legosadditions:block/adjuster_2",
+			"y": 180
+		},
+		"facing=south,powered=true,output=2": {
+			"model": "legosadditions:block/adjuster_2"
+		},
+		"facing=west,powered=true,output=2": {
+			"model": "legosadditions:block/adjuster_2",
+			"y": 90
+		},
+		"facing=east,powered=true,output=3": {
+			"model": "legosadditions:block/adjuster_3",
+			"y": 270
+		},
+		"facing=north,powered=true,output=3": {
+			"model": "legosadditions:block/adjuster_3",
+			"y": 180
+		},
+		"facing=south,powered=true,output=3": {
+			"model": "legosadditions:block/adjuster_3"
+		},
+		"facing=west,powered=true,output=3": {
+			"model": "legosadditions:block/adjuster_3",
+			"y": 90
+		},
+		"facing=east,powered=true,output=4": {
+			"model": "legosadditions:block/adjuster_4",
+			"y": 270
+		},
+		"facing=north,powered=true,output=4": {
+			"model": "legosadditions:block/adjuster_4",
+			"y": 180
+		},
+		"facing=south,powered=true,output=4": {
+			"model": "legosadditions:block/adjuster_4"
+		},
+		"facing=west,powered=true,output=4": {
+			"model": "legosadditions:block/adjuster_4",
+			"y": 90
+		},
+		"facing=east,powered=true,output=5": {
+			"model": "legosadditions:block/adjuster_5",
+			"y": 270
+		},
+		"facing=north,powered=true,output=5": {
+			"model": "legosadditions:block/adjuster_5",
+			"y": 180
+		},
+		"facing=south,powered=true,output=5": {
+			"model": "legosadditions:block/adjuster_5"
+		},
+		"facing=west,powered=true,output=5": {
+			"model": "legosadditions:block/adjuster_5",
+			"y": 90
+		},
+		"facing=east,powered=true,output=6": {
+			"model": "legosadditions:block/adjuster_6",
+			"y": 270
+		},
+		"facing=north,powered=true,output=6": {
+			"model": "legosadditions:block/adjuster_6",
+			"y": 180
+		},
+		"facing=south,powered=true,output=6": {
+			"model": "legosadditions:block/adjuster_6"
+		},
+		"facing=west,powered=true,output=6": {
+			"model": "legosadditions:block/adjuster_6",
+			"y": 90
+		},
+		"facing=east,powered=true,output=7": {
+			"model": "legosadditions:block/adjuster_7",
+			"y": 270
+		},
+		"facing=north,powered=true,output=7": {
+			"model": "legosadditions:block/adjuster_7",
+			"y": 180
+		},
+		"facing=south,powered=true,output=7": {
+			"model": "legosadditions:block/adjuster_7"
+		},
+		"facing=west,powered=true,output=7": {
+			"model": "legosadditions:block/adjuster_7",
+			"y": 90
+		},
+		"facing=east,powered=true,output=8": {
+			"model": "legosadditions:block/adjuster_8",
+			"y": 270
+		},
+		"facing=north,powered=true,output=8": {
+			"model": "legosadditions:block/adjuster_8",
+			"y": 180
+		},
+		"facing=south,powered=true,output=8": {
+			"model": "legosadditions:block/adjuster_8"
+		},
+		"facing=west,powered=true,output=8": {
+			"model": "legosadditions:block/adjuster_8",
+			"y": 90
+		},
+		"facing=east,powered=true,output=9": {
+			"model": "legosadditions:block/adjuster_9",
+			"y": 270
+		},
+		"facing=north,powered=true,output=9": {
+			"model": "legosadditions:block/adjuster_9",
+			"y": 180
+		},
+		"facing=south,powered=true,output=9": {
+			"model": "legosadditions:block/adjuster_9"
+		},
+		"facing=west,powered=true,output=9": {
+			"model": "legosadditions:block/adjuster_9",
+			"y": 90
+		},
+		"facing=east,powered=true,output=10": {
+			"model": "legosadditions:block/adjuster_10",
+			"y": 270
+		},
+		"facing=north,powered=true,output=10": {
+			"model": "legosadditions:block/adjuster_10",
+			"y": 180
+		},
+		"facing=south,powered=true,output=10": {
+			"model": "legosadditions:block/adjuster_10"
+		},
+		"facing=west,powered=true,output=10": {
+			"model": "legosadditions:block/adjuster_10",
+			"y": 90
+		},
+		"facing=east,powered=true,output=11": {
+			"model": "legosadditions:block/adjuster_11",
+			"y": 270
+		},
+		"facing=north,powered=true,output=11": {
+			"model": "legosadditions:block/adjuster_11",
+			"y": 180
+		},
+		"facing=south,powered=true,output=11": {
+			"model": "legosadditions:block/adjuster_11"
+		},
+		"facing=west,powered=true,output=11": {
+			"model": "legosadditions:block/adjuster_11",
+			"y": 90
+		},
+		"facing=east,powered=true,output=12": {
+			"model": "legosadditions:block/adjuster_12",
+			"y": 270
+		},
+		"facing=north,powered=true,output=12": {
+			"model": "legosadditions:block/adjuster_12",
+			"y": 180
+		},
+		"facing=south,powered=true,output=12": {
+			"model": "legosadditions:block/adjuster_12"
+		},
+		"facing=west,powered=true,output=12": {
+			"model": "legosadditions:block/adjuster_12",
+			"y": 90
+		},
+		"facing=east,powered=true,output=13": {
+			"model": "legosadditions:block/adjuster_13",
+			"y": 270
+		},
+		"facing=north,powered=true,output=13": {
+			"model": "legosadditions:block/adjuster_13",
+			"y": 180
+		},
+		"facing=south,powered=true,output=13": {
+			"model": "legosadditions:block/adjuster_13"
+		},
+		"facing=west,powered=true,output=13": {
+			"model": "legosadditions:block/adjuster_13",
+			"y": 90
+		},
+		"facing=east,powered=true,output=14": {
+			"model": "legosadditions:block/adjuster_14",
+			"y": 270
+		},
+		"facing=north,powered=true,output=14": {
+			"model": "legosadditions:block/adjuster_14",
+			"y": 180
+		},
+		"facing=south,powered=true,output=14": {
+			"model": "legosadditions:block/adjuster_14"
+		},
+		"facing=west,powered=true,output=14": {
+			"model": "legosadditions:block/adjuster_14",
+			"y": 90
+		},
+		"facing=east,powered=true,output=15": {
+			"model": "legosadditions:block/adjuster_15",
+			"y": 270
+		},
+		"facing=north,powered=true,output=15": {
+			"model": "legosadditions:block/adjuster_15",
+			"y": 180
+		},
+		"facing=south,powered=true,output=15": {
+			"model": "legosadditions:block/adjuster_15"
+		},
+		"facing=west,powered=true,output=15": {
+			"model": "legosadditions:block/adjuster_15",
+			"y": 90
+		}
+	}
+}

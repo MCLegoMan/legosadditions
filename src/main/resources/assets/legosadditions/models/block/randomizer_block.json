@@ -1,8 +1,23 @@
 {
-	"parent": "minecraft:block/cube_all",
+	"parent": "block/block",
 	"textures": {
-		"all": "legosadditions:block/randomizer_block",
-		"down": "minecraft:block/furnace_top",
-		"up": "minecraft:block/furnace_top"
-	}
+		"top": "minecraft:block/observer_top",
+		"side": "legosadditions:block/randomizer_block",
+		"front": "legosadditions:block/randomizer_block_front",
+		"back": "legosadditions:block/randomizer_block_back",
+		"particle": "legosadditions:block/randomizer_block"
+	},
+	"elements": [
+		{   "from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "down" },
+				"up":    { "uv": [ 0, 16, 16, 0 ], "texture": "#top", "cullface": "up" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#front", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#back", "cullface": "south" },
+				"west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "west" },
+				"east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		}
+	]
 }

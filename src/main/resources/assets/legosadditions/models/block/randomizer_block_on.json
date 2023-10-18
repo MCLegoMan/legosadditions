@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:block/cube_all",
+	"parent": "legosadditions:block/randomizer_block",
 	"textures": {
-		"all": "legosadditions:block/randomizer_block_on",
-		"down": "minecraft:block/furnace_top",
-		"up": "minecraft:block/furnace_top"
+		"back": "legosadditions:block/randomizer_block_back_on"
 	}
 }
