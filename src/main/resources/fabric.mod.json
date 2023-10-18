@@ -15,9 +15,12 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.mclegoman.copperbulb.common.LA"
+			"com.mclegoman.legosadditions.common.LA"
 		]
 	},
+	"mixins": [
+		"legosadditions.mixins.json"
+	],
 	"depends": {
 		"fabric-api": "*"
 	}

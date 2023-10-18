@@ -5,9 +5,9 @@
     License: GNU LGPLv3
 */
 
-package com.mclegoman.copperbulb.common.data;
+package com.mclegoman.legosadditions.common.data;
 
-import com.mclegoman.copperbulb.common.version.LAVersion;
+import com.mclegoman.legosadditions.common.version.LAVersion;
 import com.mclegoman.releasetypeutils.common.releasetype.RTUReleaseTypes;
 import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.Version;

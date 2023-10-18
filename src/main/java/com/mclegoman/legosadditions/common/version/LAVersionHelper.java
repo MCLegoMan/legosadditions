@@ -5,7 +5,7 @@
     License: GNU LGPLv3
 */
 
-package com.mclegoman.copperbulb.common.version;
+package com.mclegoman.legosadditions.common.version;
 
 import com.mclegoman.releasetypeutils.common.releasetype.RTUReleaseTypes;
 

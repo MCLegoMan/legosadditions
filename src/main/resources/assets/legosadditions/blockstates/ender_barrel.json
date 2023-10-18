@@ -1,0 +1,30 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "legosadditions:block/ender_barrel",
+			"x": 90
+		},
+		"facing=south": {
+			"model": "legosadditions:block/ender_barrel",
+			"x": 90,
+			"y": 180
+		},
+		"facing=east": {
+			"model": "legosadditions:block/ender_barrel",
+			"x": 90,
+			"y": 90
+		},
+		"facing=west": {
+			"model": "legosadditions:block/ender_barrel",
+			"x": 90,
+			"y": 270
+		},
+		"facing=up": {
+			"model": "legosadditions:block/ender_barrel"
+		},
+		"facing=down": {
+			"model": "legosadditions:block/ender_barrel",
+			"x": 180
+		}
+	}
+}
